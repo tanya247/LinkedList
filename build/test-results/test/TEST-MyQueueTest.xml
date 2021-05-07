@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MyQueueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-07T06:09:00" hostname="LAPTOP-Q9T3UUC8" time="0.028">
+<testsuite name="MyQueueTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-07T06:25:11" hostname="LAPTOP-Q9T3UUC8" time="0.031">
   <properties/>
-  <testcase name="given3NumbersInQueueWhenEnqueueShouldBeDoneByFIFO()" classname="MyQueueTest" time="0.028"/>
+  <testcase name="given3NumbersInQueueSoThatDequeueShouldDoneByFIFO()" classname="MyQueueTest" time="0.029"/>
+  <testcase name="given3NumbersInQueueWhenEnqueueShouldBeDoneByFIFO()" classname="MyQueueTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

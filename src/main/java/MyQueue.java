@@ -15,4 +15,8 @@ public class MyQueue {
             myLinkedList.append(myNode);
         }
     }
+
+    public INode dequeue() {
+        return myLinkedList.popOut();
+    }
 }
